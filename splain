@@ -4,4 +4,4 @@ if [ -z "$1" ]; then
     echo "Usage: splain <command>"
     exit 1
 fi
-man $1
+man "$@"

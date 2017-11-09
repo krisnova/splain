@@ -2,6 +2,12 @@
 
 Well actually, it's just a replacement for `man(1)`.
 
+# Installing
+
+```
+curl -L https://raw.githubusercontent.com/kris-nova/splain/master/intaller.sh | sudo bash
+```
+
 ### Description
 
 splain(1) is a modern replacement for man(1).

@@ -5,7 +5,7 @@ Well actually, it's just a replacement for `man(1)`.
 # Installing
 
 ```
-curl -L https://raw.githubusercontent.com/kris-nova/splain/master/intaller.sh | sudo bash
+curl -L https://raw.githubusercontent.com/kris-nova/splain/master/installer.sh | sudo bash
 ```
 
 ### Description
